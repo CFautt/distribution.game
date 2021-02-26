@@ -1,0 +1,115 @@
+.text-center {
+    text-align: center;
+}
+
+.body {
+    background-color: rgb(54, 54, 54);
+  }
+
+.title {
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px;
+    color: rgb(29, 29, 29);
+}
+
+.plot_title {
+    color: rgb(212, 212, 212);
+}
+
+.evaluation {
+    margin-top: 3px;
+    margin-bottom: 0px;
+    padding: 0px;
+    font-size: 8;
+}
+
+.plot {
+    width: 900px;
+    margin-top: 5px;
+    text-align: center;
+    padding: 5px;
+}
+
+.controls, .log {
+    margin-top: 30px;
+    text-align: center;
+    padding: 10px;
+}
+
+.turn {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.log ul {
+    list-style: none;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.log ul li {
+    margin: 5px;
+}
+
+.log ul .player-turn {
+    color: blue;
+    background-color: #e4e8ff;
+}
+
+.log ul .monster-turn {
+    color: red;
+    background-color: #ffc0c1;
+}
+
+button {
+    font-size: 20px;
+    background-color: #eee;
+    color: white;
+    padding: 12px;
+    box-shadow: 0 1px 1px black;
+    margin: 10px;
+    border-radius: 0 !important;
+}
+
+
+#clear {
+    background-color: #6d6d6d;
+}
+
+#clear:hover {
+    background: linear-gradient(to right, #f01212, #e7490a) !important;
+}
+
+#submit {
+    border-radius: 4px;
+    background: linear-gradient(to right, #67b26b, #4ca2cb) !important;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 22px;
+    height:65px;
+    width: 200px;
+    transition: all 0.4s;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+#submit:hover {
+    background: linear-gradient(to right, #f01212, #e7490a) !important;
+}
+
+#next {
+    background-color: #6d6d6d;
+}
+
+#next:hover {
+    background: linear-gradient(to right, #f01212, #e7490a) !important;
+}
+
+
+  
+ 
