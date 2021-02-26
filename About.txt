@@ -1,0 +1,7 @@
+Guess the popularity of baby names over time. 
+
+The idea behind this is that you can swap out baby names for any other dataset and guess how the data is distributed.
+
+Baby names are just a universally interesting thing and the data is easy to get so I used that for the prototype.
+
+URL to play the game: https://cfautt.github.io/distribution.game/
